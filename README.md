@@ -1,2 +1,0 @@
-# gopikrishna-
-Computer architecture
